@@ -373,27 +373,3 @@ The dashboard provides researchers and practitioners with a comprehensive toolse
 The modular architecture and code enhancements provide a foundation for future developments, including the integration of additional models, improved validation capabilities, and extensions to forecasting applications. As the importance of water resource monitoring grows in the context of climate change and increasing water scarcity, accessible and robust ET monitoring tools will play an increasingly valuable role in sustainable management of our water resources.
 
 ## References
-
-Allen, R.G., Pereira, L.S., Howell, T.A., & Jensen, M.E. (2011). Evapotranspiration information reporting: I. Factors governing measurement accuracy. Agricultural Water Management, 98(6), 899-920.
-
-Anderson, M.C., Allen, R.G., Morse, A., & Kustas, W.P. (2011). Use of Landsat thermal imagery in monitoring evapotranspiration and managing water resources. Remote Sensing of Environment, 122, 50-65.
-
-Anderson, M.C., Zolin, C.A., Hain, C.R., Semmens, K., Yilmaz, M.T., & Gao, F. (2016). Comparison of satellite-derived LAI and precipitation anomalies over Brazil with a thermal infrared-based Evaporative Stress Index for 2003–2013. Journal of Hydrology, 526, 287-302.
-
-Fisher, J.B., Melton, F., Middleton, E., Hain, C., Anderson, M., Allen, R., ... & Wood, E.F. (2017). The future of evapotranspiration: Global requirements for ecosystem functioning, carbon and climate feedbacks, agricultural management, and water resources. Water Resources Research, 53(4), 2618-2626.
-
-Fisher, J.B., Whittaker, R.J., & Malhi, Y. (2011). ET come home: potential evapotranspiration in geographical ecology. Global Ecology and Biogeography, 20(1), 1-18.
-
-Jasechko, S., Sharp, Z.D., Gibson, J.J., Birks, S.J., Yi, Y., & Fawcett, P.J. (2013). Terrestrial water fluxes dominated by transpiration. Nature, 496(7445), 347-350.
-
-Jung, M., Reichstein, M., Ciais, P., Seneviratne, S.I., Sheffield, J., Goulden, M.L., ... & Zhang, K. (2010). Recent decline in the global land evapotranspiration trend due to limited moisture supply. Nature, 467(7318), 951-954.
-
-Kustas, W.P., & Anderson, M.C. (2009). Advances in thermal infrared remote sensing for land surface modeling. Agricultural and Forest Meteorology, 149(12), 2071-2081.
-
-Kustas, W.P., & Norman, J.M. (1999). Evaluation of soil and vegetation heat flux predictions using a simple two-source model with radiometric temperatures for partial canopy cover. Agricultural and Forest Meteorology, 94(1), 13-29.
-
-Li, Z., Liu, X., Ma, T., Kejia, D., Zhou, Q., Yao, B., & Niu, T. (2017). Retrieval of the surface evapotranspiration patterns in the alpine grassland–wetland ecosystem applying SEBAL model in the source region of the Yellow River, China. Ecological Modelling, 270, 64-75.
-
-Norman, J.M., Kustas, W.P., & Humes, K.S. (1995). Source approach for estimating soil and vegetation energy fluxes in observations of directional radiometric surface temperature. Agricultural and Forest Meteorology, 77(3-4), 263-293.
-
-Wilson, K., Goldstein, A., Falge, E., Aubinet, M., Baldocchi, D., Berbigier, P., ... & Verma, S. (2002). Energy balance closure at FLUXNET sites. Agricultural and Forest Meteorology, 113(1-4), 223-243.
